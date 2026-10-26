@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\QrSecDesigner.csproj": {}
+  },
+  "projects": {
+    "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\QrSecDesigner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\QrSecDesigner.csproj",
+        "projectName": "QrSecDesigner",
+        "projectPath": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\QrSecDesigner.csproj",
+        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
+        "outputPath": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrsec.csproj": {
+                "projectPath": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrsec.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "dependencies": {
+            "ZXing.Net": {
+              "target": "Package",
+              "version": "[0.16.9, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrsec.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrsec.csproj",
+        "projectName": "qrsec",
+        "projectPath": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrsec.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    }
+  }
+}

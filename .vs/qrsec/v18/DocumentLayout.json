@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F3C2A-8E4D-4C7B-9A51-2D7E0F3B8C14}|QrSecDesigner\\QrSecDesigner.csproj|c:\\david\\prj\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsecdesigner\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1F3C2A-8E4D-4C7B-9A51-2D7E0F3B8C14}|QrSecDesigner\\QrSecDesigner.csproj|solutionrelative:qrsecdesigner\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1F3C2A-8E4D-4C7B-9A51-2D7E0F3B8C14}|QrSecDesigner\\QrSecDesigner.csproj|C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsecdesigner\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B1F3C2A-8E4D-4C7B-9A51-2D7E0F3B8C14}|QrSecDesigner\\QrSecDesigner.csproj|solutionrelative:qrsecdesigner\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|qrsec||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrcode\\encoder\\encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|solutionrelative:qrsec\\qrcode\\encoder\\encoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\buat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|solutionrelative:qrsec\\buat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\barcodewriter.writablebitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|solutionrelative:qrsec\\barcodewriter.writablebitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|solutionrelative:qrsec\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrcode\\encoder\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|solutionrelative:qrsec\\qrcode\\encoder\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\common\\bitmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|solutionrelative:qrsec\\common\\bitmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\common\\bitarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45A6FCE-3E8A-48F5-A70C-7034ECCDEE28}|qrsec\\qrsec.csproj|solutionrelative:qrsec\\common\\bitarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormUtama.cs",
+              "DocumentMoniker": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\FormUtama.cs",
+              "RelativeDocumentMoniker": "QrSecDesigner\\FormUtama.cs",
+              "ToolTip": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\FormUtama.cs*",
+              "RelativeToolTip": "QrSecDesigner\\FormUtama.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T06:08:10.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "qrsec",
+              "DocumentMoniker": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrsec.csproj",
+              "RelativeDocumentMoniker": "qrsec\\qrsec.csproj",
+              "ToolTip": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrsec.csproj",
+              "RelativeToolTip": "qrsec\\qrsec.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-26T05:43:34.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormUtama.cs [Design]",
+              "DocumentMoniker": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\FormUtama.cs",
+              "RelativeDocumentMoniker": "QrSecDesigner\\FormUtama.cs",
+              "ToolTip": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\FormUtama.cs [Design]*",
+              "RelativeToolTip": "QrSecDesigner\\FormUtama.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T05:42:54.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encoder.cs",
+              "DocumentMoniker": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrcode\\encoder\\Encoder.cs",
+              "RelativeDocumentMoniker": "qrsec\\qrcode\\encoder\\Encoder.cs",
+              "ToolTip": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrcode\\encoder\\Encoder.cs",
+              "RelativeToolTip": "qrsec\\qrcode\\encoder\\Encoder.cs",
+              "ViewState": "AgIAAO4BAAAAAAAAAAAzwPoBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:55:46.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BitArray.cs",
+              "DocumentMoniker": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\common\\BitArray.cs",
+              "RelativeDocumentMoniker": "qrsec\\common\\BitArray.cs",
+              "ToolTip": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\common\\BitArray.cs",
+              "RelativeToolTip": "qrsec\\common\\BitArray.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:52:43.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BitMatrix.cs",
+              "DocumentMoniker": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\common\\BitMatrix.cs",
+              "RelativeDocumentMoniker": "qrsec\\common\\BitMatrix.cs",
+              "ToolTip": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\common\\BitMatrix.cs",
+              "RelativeToolTip": "qrsec\\common\\BitMatrix.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAcwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:51:19.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\Writer.cs",
+              "RelativeDocumentMoniker": "qrsec\\Writer.cs",
+              "ToolTip": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\Writer.cs",
+              "RelativeToolTip": "qrsec\\Writer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwCcAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:49:00.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarcodeWriter.WritableBitmap.cs",
+              "DocumentMoniker": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\BarcodeWriter.WritableBitmap.cs",
+              "RelativeDocumentMoniker": "qrsec\\BarcodeWriter.WritableBitmap.cs",
+              "ToolTip": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\BarcodeWriter.WritableBitmap.cs",
+              "RelativeToolTip": "qrsec\\BarcodeWriter.WritableBitmap.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAApwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:45:16.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buat.cs",
+              "DocumentMoniker": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\Buat.cs",
+              "RelativeDocumentMoniker": "qrsec\\Buat.cs",
+              "ToolTip": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\Buat.cs",
+              "RelativeToolTip": "qrsec\\Buat.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:45:16.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QRCode.cs",
+              "DocumentMoniker": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrcode\\encoder\\QRCode.cs",
+              "RelativeDocumentMoniker": "qrsec\\qrcode\\encoder\\QRCode.cs",
+              "ToolTip": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrcode\\encoder\\QRCode.cs",
+              "RelativeToolTip": "qrsec\\qrcode\\encoder\\QRCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:36:53.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
