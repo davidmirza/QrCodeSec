@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hj+E8P7rDIk=",
+  "dgSpecHash": "qpzJVLGCxGw=",
   "success": true,
-  "projectFilePath": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\QrSecDesigner.csproj",
+  "projectFilePath": "C:\\DAVID\\PRJ\\QrCodeSec\\QrSecDesigner\\QrSecDesigner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
   ],

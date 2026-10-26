@@ -165,11 +165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\QrSecDesigner.csproj",
+      "projectUniqueName": "C:\\DAVID\\PRJ\\QrCodeSec\\QrSecDesigner\\QrSecDesigner.csproj",
       "projectName": "QrSecDesigner",
-      "projectPath": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\QrSecDesigner.csproj",
+      "projectPath": "C:\\DAVID\\PRJ\\QrCodeSec\\QrSecDesigner\\QrSecDesigner.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\QrSecDesigner\\obj\\",
+      "outputPath": "C:\\DAVID\\PRJ\\QrCodeSec\\QrSecDesigner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -191,8 +191,8 @@
           "framework": "net48",
           "targetAlias": "net48",
           "projectReferences": {
-            "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrsec.csproj": {
-              "projectPath": "C:\\DAVID\\PRJ\\m_david-qrcodec-907e614c719c\\m_david-qrcodec-907e614c719c\\qrsec\\qrsec.csproj"
+            "C:\\DAVID\\PRJ\\QrCodeSec\\qrsec\\qrsec.csproj": {
+              "projectPath": "C:\\DAVID\\PRJ\\QrCodeSec\\qrsec\\qrsec.csproj"
             }
           }
         }

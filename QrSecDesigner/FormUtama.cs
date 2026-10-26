@@ -18,7 +18,7 @@ namespace QrSecDesigner
         private static readonly Color WARNA_GAGAL = Color.FromArgb(255, 235, 238);
 
         private readonly Pengaturan setel = Pengaturan.Muat();
-      //  private KunciQr kunci;
+        private KunciQr kunci;
         private Bitmap gambar;
 
         public FormUtama()
@@ -41,8 +41,8 @@ namespace QrSecDesigner
             chkSigning.Checked = setel.Signing;
             cmbEc.SelectedIndex = Math.Max(0, Array.IndexOf(PembuatQr.LEVEL, setel.Level));
             cmbUkuran.Text = setel.Ukuran.ToString();
-            //if (!string.IsNullOrEmpty(setel.FileKunci) && File.Exists(setel.FileKunci))
-            //    MuatKunci(setel.FileKunci, true);
+            if (!string.IsNullOrEmpty(setel.FileKunci) && File.Exists(setel.FileKunci))
+                MuatKunci(setel.FileKunci, true);
             AturSigning();
             UpdateHitung();
             TandaiBelumDibuat("Isi main + secret, pilih setup, lalu klik Buat QR.\r\nQR hasil akan dibaca ulang otomatis untuk verifikasi.");
@@ -189,11 +189,11 @@ namespace QrSecDesigner
                     return;
                 try
                 {
-                    //using (var baru = KunciQr.Buat(keyId))
-                    //{
-                    //    baru.SimpanPrivat(dlg.FileName);
-                    //    File.WriteAllText(dlg.FileName + ".pub.txt", baru.PublicKeyBase64);
-                    //}
+                    using (var baru = KunciQr.Buat(keyId))
+                    {
+                        baru.SimpanPrivat(dlg.FileName);
+                        File.WriteAllText(dlg.FileName + ".pub.txt", baru.PublicKeyBase64);
+                    }
                 }
                 catch (Exception ex)
                 {

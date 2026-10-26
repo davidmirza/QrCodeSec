@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QrSecDesigner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c1475d3d44753de0f663933e88b0696e1612b09")]
 [assembly: System.Reflection.AssemblyProductAttribute("QrSecDesigner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QrSec Designer - pembuat QR + secret")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
